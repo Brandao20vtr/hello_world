@@ -20,5 +20,5 @@ while a != 5:
 
 ---
 
-![Follow](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)
-![size](https://badge-size.herokuapp.com/{username}/{repo}/{branch}/{filename})
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
