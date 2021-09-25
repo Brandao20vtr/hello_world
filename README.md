@@ -1,5 +1,6 @@
-# Hello World 
-* Criando primeiro repositório no Github.
+# 🗺️ Hello World 🗺️
+
+* Criando primeiro repositório no Github. 
 
 - [x] Primeiro repositório do curso de Git e Github
 - [x] Repositório criado durante uma aula ao vivo.
@@ -11,4 +12,4 @@ a =0
 while a !=5:
     a = int(input('Digite um número: '))
     a += 1
-    
+``` 
