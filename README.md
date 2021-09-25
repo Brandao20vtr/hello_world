@@ -20,5 +20,5 @@ while a != 5:
 
 ---
 
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+![Follow](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)
+![size](https://badge-size.herokuapp.com/{username}/{repo}/{branch}/{filename})
