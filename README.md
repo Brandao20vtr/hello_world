@@ -2,9 +2,10 @@
 
 * Criando primeiro repositório no Github. 
 
-- [x] Primeiro repositório do curso de Git e Github
-- [x] Repositório criado durante uma aula ao vivo.'
+- [x] Primeiro repositório do curso de Git e Github.
+- [x] Repositório criado durante uma aula ao vivo.
 - [x] Essa linha eu adicionei diretamente no site. Que interesante!
+- [x] Voltei a utilizar o VSCode.
 
 ---
 
